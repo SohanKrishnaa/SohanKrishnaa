@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there! 👋 I'm a Full Stack Web Developer<br><br>- 🔭 Currently working on awesome web projects<br>- 🎓 14-year-old student and freelance developer<br>- 💻 I specialize in both front-end and back-end development<br>- 🤖 I also automate HTTP requests and work with Python, JavaScript, and much more!<br>- 🤝 Looking to collaborate on cool projects and innovative ideas<br>- 📫 Feel free to reach out for freelance work, collaborations, or any web dev queries!<br>- ⚡ Fun fact: Coding has been my thing since I was 10!<br>
+### Hi there! 👋 I'm a Full Stack Web Developer<br><br>- 🔭 Currently working on awesome web projects<br>- 🎓 15-year-old student and freelance developer<br>- 💻 I specialize in both front-end and back-end development<br>- 🤖 I also automate HTTP requests and work with Python, JavaScript, and much more!<br>- 🤝 Looking to collaborate on cool projects and innovative ideas<br>- 📫 Feel free to reach out for freelance work, collaborations, or any web dev queries!<br>- ⚡ Fun fact: Coding has been my thing since I was 10!<br>
 
 
 ## 🌐 Socials:
